@@ -9,6 +9,8 @@ CKAD Preparation
 
 [CKAD Exercises - By Ameen-Alam](https://github.com/Ameen-Alam/CKAD-exercises)
 
+[CKAD - nitikorn](https://github.com/nitikornchumnankul/ckad)
+
 
 # Book or Course
 
